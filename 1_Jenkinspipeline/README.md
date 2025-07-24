@@ -183,15 +183,6 @@ Before setting up the Jenkins pipeline, ensure the following are configured:
 
 ---
 
-
-
-## 👤 Author
-
-- **U KUSHAL RAO**
-- GitHub: [@kushal1997](https://github.com/kushal1997)
-
----
-
 ## 🚀 How to Run the Flask App (Manual)
 
 If needed, you can SSH into EC2 and manually start it:
